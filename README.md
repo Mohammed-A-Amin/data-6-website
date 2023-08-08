@@ -12,4 +12,3 @@
 
 <h2>Play My Game</h2>
 
-<iframe src="https://game-over-beta.vercel.app/title.html" title="Game Over"></iframe>
