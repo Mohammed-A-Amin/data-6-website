@@ -12,5 +12,5 @@
 
 <h2>Play My Game</h2>
 
-<iframe src="https://game-over-beta.vercel.app/title.html" height="600" width="600" title="Iframe Example"></iframe>
+<iframe src="https://game-over-beta.vercel.app/title.html" height="1000px" width="1000px" title="Iframe Example"></iframe>
 
